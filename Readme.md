@@ -154,7 +154,9 @@ Once Odin shows a green **"PASS"**:
 
 ## 🎉 Congratulations!
 
-This explaination is based on multiple sources, however this documents verient diese und kpmmert sich auch um trouble shooting. Also LLMs like ChatGPT, Gemini and Claude werent able to fully get this together.
+## Disclaimer
+
+This explanation is based on multiple sources. However, this document also covers troubleshooting. LLMs such as ChatGPT, Gemini and Claude were unable to fully grasp this.
 
 - https://github.com/thefatos/galaxya21s-gsi
 - https://technastic.com/fix-odin-complete-write-operation-failed-error/
